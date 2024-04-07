@@ -16,7 +16,6 @@ import com.lt.crs.constants.SqlQueryConstants;
 import com.lt.crs.exception.PaymentIssueException;
 import com.lt.crs.exception.StudentNotFoundException;
 import com.lt.crs.model.Payment;
-import com.mysql.jdbc.Statement;
 
 /**
  * 
